@@ -5,7 +5,8 @@ Exercícios de Listas em Python
 --------------------
 1. Soma de Elementos
 --------------------
-Crie uma lista com 5 números inteiros de sua escolha. Em seguida, escreva um programa que calcule e imprima a soma de todos os elementos dessa lista.
+Crie uma lista com 5 números inteiros de sua escolha.
+Em seguida, escreva um programa que calcule e imprima a soma de todos os elementos dessa lista.
 * Dica: Você pode usar um laço 'for' ou a função sum().
 
 --------------------
@@ -25,7 +26,9 @@ c. Imprima a lista novamente, mas desta vez em ORDEM ALFABÉTICA.
 --------------------
 4. Removendo Duplicatas
 --------------------
-Dada a lista numeros = [1, 2, 3, 2, 4, 5, 5, 6], crie um programa que gere uma nova lista contendo apenas os elementos únicos da lista original, sem repetições. A ordem dos elementos na nova lista não importa.
+Dada a lista numeros = [1, 2, 3, 2, 4, 5, 5, 6]
+crie um programa que gere uma nova lista contendo apenas os elementos únicos da lista original, sem repetições.
+A ordem dos elementos na nova lista não importa.
 * Dica: Considere usar um laço 'for' e verificar se o elemento já existe na nova lista antes de adicioná-lo.
 
 --------------------
